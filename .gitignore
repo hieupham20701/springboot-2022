@@ -1,0 +1,9 @@
+.settings
+target
+*.classpath
+*.project
+<<<<<<< HEAD
+=======
+.idea
+*.iml
+>>>>>>> fe610cae1e93e582c372db4adfd8ee04745f2d9d
